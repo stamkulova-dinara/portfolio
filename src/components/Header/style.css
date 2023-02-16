@@ -1,0 +1,26 @@
+header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 120px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  background-color: rgba(255, 255, 255, 0.99);
+}
+.header__logo span {
+  color: rgb(53, 239, 177);
+}
+.header__nav__list {
+  display: flex;
+  list-style: none;
+  gap: 66px;
+}
+
+.header__contact {
+  background: rgb(53, 239, 177);
+}

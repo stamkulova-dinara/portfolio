@@ -1,0 +1,11 @@
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 70px 0;
+    color: white;
+}
+
+.footer__white {
+    color: #fff;
+    opacity: .5;
+}
